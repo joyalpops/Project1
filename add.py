@@ -1,5 +1,5 @@
 a=8
 b=6
-d=7
-c=a+b=d
+e=7
+c=a+b=e
 print c
